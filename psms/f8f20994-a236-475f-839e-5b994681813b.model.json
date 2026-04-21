@@ -33,7 +33,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746614535632-4a2a-60e4-95c3",
       "parent": "https://ofn.gov.cz/operation/1746614535590-4843-f323-a7ac",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanLabel": {
         "en": "Application Profile Specification Document",
         "cs": "Application Profile Specification Document"
@@ -46,7 +46,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746614535670-bd8a-3584-9e6b",
       "parent": "https://ofn.gov.cz/operation/1746614535632-4a2a-60e4-95c3",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanDescription": {
         "en": "Data structure for Application Profile Specification Document. An Application Profile Specification Document contains human-readable version of an Application Profile.",
         "cs": "Datová struktura pro Application Profile Specification Document. An Application Profile Specification Document contains human-readable version of an Application Profile."
@@ -158,7 +158,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746614963918-a770-78ce-bf5f",
       "parent": "https://ofn.gov.cz/operation/1746614963873-9fb9-effe-a192",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanLabel": {
         "en": "Data Specification Document",
         "cs": "Data Specification Document"
@@ -171,7 +171,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746614963951-dfd5-c91b-9fa2",
       "parent": "https://ofn.gov.cz/operation/1746614963918-a770-78ce-bf5f",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanDescription": {
         "en": "Data structure for Data Specification Document. A Data Specification Document.",
         "cs": "Datová struktura pro Data Specification Document. A Data Specification Document."
@@ -366,7 +366,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746615432222-6663-2715-bade",
       "parent": "https://ofn.gov.cz/operation/1746615432170-56bc-f065-98cd",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanLabel": {
         "en": "Application Profile Specification Document",
         "cs": "Application Profile Specification Document"
@@ -379,7 +379,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1746615432251-26bc-8bbe-a912",
       "parent": "https://ofn.gov.cz/operation/1746615432222-6663-2715-bade",
-      "dataPsmResource": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmResource": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanDescription": {
         "en": "Data structure for Application Profile Specification Document. An Application Profile Specification Document contains human-readable version of an Application Profile.",
         "cs": "Datová struktura pro Application Profile Specification Document. An Application Profile Specification Document contains human-readable version of an Application Profile."
@@ -1145,7 +1145,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747024624188-eaf0-594b-9bb2",
       "parent": "https://ofn.gov.cz/operation/1746794697422-057a-9b1d-bb47",
-      "dataPsmEntity": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmEntity": "4279beda-537c-4ab9-b786-c650415db304",
       "jsonLdDefinedPrefixes": {
         "prof": "http://www.w3.org/ns/dx/prof/",
         "role": "http://www.w3.org/ns/dx/prof/role/",
@@ -1211,7 +1211,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747025346410-79d5-7845-9061",
       "parent": "https://ofn.gov.cz/operation/1747024758662-b9ae-499c-ab05",
-      "dataPsmEntity": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmEntity": "4279beda-537c-4ab9-b786-c650415db304",
       "jsonLdDefinedPrefixes": {
         "prof": "http://www.w3.org/ns/dx/prof/",
         "role": "http://www.w3.org/ns/dx/prof/role/",
@@ -1228,7 +1228,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1747038627659-89d9-4cc6-a538",
       "parent": "https://ofn.gov.cz/operation/1747025346410-79d5-7845-9061",
-      "dataPsmEntity": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmEntity": "4279beda-537c-4ab9-b786-c650415db304",
       "jsonLdDefinedPrefixes": {
         "prof": "http://www.w3.org/ns/dx/prof/",
         "role": "http://www.w3.org/ns/dx/prof/role/",
@@ -1265,7 +1265,7 @@
       ],
       "iri": "https://ofn.gov.cz/operation/1753973422574-a3fe-3e6f-8f6f",
       "parent": "https://ofn.gov.cz/operation/1747039155316-6741-fc67-9db4",
-      "dataPsmEntity": "f8f20994-a236-475f-839e-5b994681813b",
+      "dataPsmEntity": "4279beda-537c-4ab9-b786-c650415db304",
       "jsonEnforceContext": "no"
     },
     {
@@ -1300,11 +1300,11 @@
     }
   ],
   "resources": {
-    "f8f20994-a236-475f-839e-5b994681813b": {
+    "4279beda-537c-4ab9-b786-c650415db304": {
       "types": [
         "https://ofn.gov.cz/slovník/psm/Schema"
       ],
-      "iri": "f8f20994-a236-475f-839e-5b994681813b",
+      "iri": "4279beda-537c-4ab9-b786-c650415db304",
       "dataPsmHumanLabel": {
         "en": "Application Profile Specification Document",
         "cs": "Application Profile Specification Document"

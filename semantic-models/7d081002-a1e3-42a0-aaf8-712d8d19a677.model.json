@@ -1,6 +1,6 @@
 {
   "type": "http://dataspecer.com/resources/local/semantic-model",
-  "modelId": "7d081002-a1e3-42a0-aaf8-712d8d19a677",
+  "modelId": "2b52174a-24fa-4935-9657-82687e76134a",
   "modelAlias": "dsv-dap",
   "baseIri": "https://w3id.org/dsv-dap#",
   "entities": {

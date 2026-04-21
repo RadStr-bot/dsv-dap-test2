@@ -1,5 +1,5 @@
 {
-  "iri": "b32f4b80-78cc-4bc8-82a7-bbfeb2495360/9d6e066e-b0b6-43c8-9361-ebecbcc6ebd4/vocabulary",
+  "iri": "e56eb223-8c14-4c69-ae60-a4db98b69cb7",
   "projectIri": "796fcdd7-92d7-4aef-bace-ca38ca16c791",
   "types": [
     "http://dataspecer.com/resources/local/semantic-model"
@@ -11,8 +11,8 @@
     "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
   },
   "metadata": {
-    "creationDate": "2026-04-21T07:58:35.373Z",
-    "modificationDate": "2026-04-21T07:59:29.181Z"
+    "creationDate": "2026-04-21T10:53:06.656Z",
+    "modificationDate": "2026-04-21T10:53:07.021Z"
   },
   "_version": 1,
   "_exportVersion": 2,

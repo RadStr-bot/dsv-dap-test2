@@ -1,5 +1,5 @@
 {
-  "iri": "i254ag",
+  "iri": "e8779725-e871-4e10-b7ae-3fcd69795460",
   "projectIri": "i254ag",
   "types": [
     "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
@@ -10,8 +10,8 @@
     }
   },
   "metadata": {
-    "creationDate": "2026-04-21T07:58:33.637Z",
-    "modificationDate": "2026-04-21T07:59:28.839Z"
+    "creationDate": "2026-04-21T10:53:05.965Z",
+    "modificationDate": "2026-04-21T10:53:06.852Z"
   },
   "_version": 1,
   "_exportVersion": 2,

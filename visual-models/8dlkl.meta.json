@@ -1,13 +1,13 @@
 {
-  "iri": "8dlkl",
+  "iri": "b511335d-b1e4-4e8d-8386-6c8a283d1953",
   "projectIri": "8dlkl",
   "types": [
     "http://dataspecer.com/resources/local/visual-model"
   ],
   "userMetadata": {},
   "metadata": {
-    "creationDate": "2026-04-21T07:58:34.249Z",
-    "modificationDate": "2026-04-21T07:59:28.906Z"
+    "creationDate": "2026-04-21T10:53:06.144Z",
+    "modificationDate": "2026-04-21T10:53:06.908Z"
   },
   "_version": 1,
   "_exportVersion": 2,
