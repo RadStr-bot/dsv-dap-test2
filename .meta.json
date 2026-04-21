@@ -8,13 +8,11 @@
     "label": {
       "en": "Data Specification Vocabulary - Default Application Profile (DSV-DAP)"
     },
-    "description": {
-      "cs": ""
-    }
+    "description": {}
   },
   "metadata": {
     "creationDate": "2026-04-21T10:53:05.827Z",
-    "modificationDate": "2026-04-21T10:53:24.243Z"
+    "modificationDate": "2026-04-21T11:26:53.584Z"
   },
   "_version": 1,
   "_exportVersion": 2,
