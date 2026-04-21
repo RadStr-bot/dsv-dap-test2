@@ -1,0 +1,22 @@
+{
+  "iri": "b32f4b80-78cc-4bc8-82a7-bbfeb2495360",
+  "projectIri": "b32f4b80-78cc-4bc8-82a7-bbfeb2495360",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Data Specification Vocabulary - Default Application Profile (DSV-DAP)"
+    },
+    "description": {
+      "cs": ""
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-21T07:58:33.158Z",
+    "modificationDate": "2026-04-21T07:59:29.251Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

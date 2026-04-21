@@ -1,0 +1,15 @@
+{
+  "iri": "8dlkl",
+  "projectIri": "8dlkl",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-04-21T07:58:34.249Z",
+    "modificationDate": "2026-04-21T07:59:28.906Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,15 @@
+{
+  "iri": "n4roi",
+  "projectIri": "n4roi",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {
+    "creationDate": "2026-04-21T07:58:33.982Z",
+    "modificationDate": "2026-04-21T07:59:28.884Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

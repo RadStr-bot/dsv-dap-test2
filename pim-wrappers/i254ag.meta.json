@@ -1,0 +1,19 @@
+{
+  "iri": "i254ag",
+  "projectIri": "i254ag",
+  "types": [
+    "https://dataspecer.com/core/model-descriptor/pim-store-wrapper"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "adms"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-04-21T07:58:33.637Z",
+    "modificationDate": "2026-04-21T07:59:28.839Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
